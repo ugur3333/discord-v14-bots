@@ -1,6 +1,6 @@
 module.exports = {
 
-    token: "", //Bot Tokeniniz => Bot Oluşturduktan Sonra Intentsleri Açmayı Unutma!
+    token: "OTYwOTI4NTg5MzI5NTk2NDE2.GKIb7y.-CQIfgumV4YDjmdI3rtp3kzSiTDEdMSqbx2K-4", //Bot Tokeniniz => Bot Oluşturduktan Sonra Intentsleri Açmayı Unutma!
     guildID: "", //Kullanıcağın Sunucunun ID'si
     voiceChannelID: "", // Ses Kanal ID'si
     presence: "Beş Was Here", //Botun Durumu
